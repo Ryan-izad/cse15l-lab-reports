@@ -16,7 +16,7 @@ Given a course specific account for CSE15, I can remotely connect to a computer 
 
 After testing random commands on my remote computer's terminal, I decided to run the 'ls -lat' command on my own terminal in VS code. Since I was in my user working directory (/Users/ryanizad/), the command listed each of my user's files along with their date and time of most recent modification. 
 
-![Image](TryingCommands.png)
+![Image](TryingCommandsSS.png)
 
 
 
