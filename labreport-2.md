@@ -8,7 +8,7 @@
 
 ![Image](hiWorldTest.png)
 
-By typing in "/add-message?s=hi world" as the path of my local server, both of if statements in `handleRequest()` execute and split everything past the "?" (by utilizng `getQuery()`) into a string array called *parameters*. The second item of the array (the string after the "=") is added to a local string variable in the RequestHandler class called *message*. Message is then returned and displayed on screen. 
+By typing in "/add-message?s=hi world" as the path of my local server, both of the if statements in `handleRequest()` execute and split everything past the "?" (by utilizng `getQuery()`) into a string array called *parameters*. The second item of the array (the string after the "=") is added to a local string variable in the RequestHandler class called *message*. Message is then returned and displayed on screen. 
 
 ![Image](welcomeTest.png)
 
