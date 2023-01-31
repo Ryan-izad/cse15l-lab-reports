@@ -1,10 +1,10 @@
-#Lab Report #2
+# Lab Report #2
 
 **Part 1: StringServer**
 
-
 ![Image](StringServerCode.png)
-*Code for StringServer*
+
+*Code for StringServer.java*
 
 ![Image](hiWorldTest.png)
 
