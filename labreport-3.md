@@ -21,7 +21,7 @@ written_2/travel_guides/berlitz2/Bahamas-History.txt
 ```
 In attaching the `*` character matching modifier to "Bahamas", we recursevly search written_2 for files that contain "Bahamas" anywhere in their name. 
 
-Source[Link](https://chat.openai.com/chat)
+Source[(https://chat.openai.com/chat)]
 
 **2. find . -type modifier**
 
@@ -51,7 +51,7 @@ written_2/travel_guides/berlitz2
 ```
 We can use the `-type d` modifier in accordance with `-name` to find all directories with "berlitz" in their name.
 
-Source[Link](https://chat.openai.com/chat)
+Source[(https://chat.openai.com/chat)]
 
 **3. find . -exec modifier**
 
@@ -71,7 +71,7 @@ grep: Lucayans: No such file or directory
 ```
 We can use the `-exec` modifier here to execute a remove command on all files that contain the string "Lucayans". Upon trying to recursively search for the same file, we can see that it can no longer be found because it is deleted. 
 
-Source[Link](https://chat.openai.com/chat)
+Source[(https://chat.openai.com/chat)]
 
 **4. find . -ls modifier**
 
@@ -102,4 +102,4 @@ written_2/travel_guides/berlitz2
 ```
 We can execute the `ls -d` command on all files of the directory type to only list the names of the directory files. 
 
-Source[Link](https://chat.openai.com/chat)
+Source[(https://chat.openai.com/chat)]
