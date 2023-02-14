@@ -23,7 +23,7 @@ In attaching the `*` character matching modifier to "Bahamas", we recursevly sea
 
 Source[Link](https://chat.openai.com/chat)
 
-**2. find . -type modifier
+**2. find . -type modifier**
 
 *Example 1*
 ```
@@ -53,7 +53,7 @@ We can use the `-type d` modifier in accordance with `-name` to find all directo
 
 Source[Link](https://chat.openai.com/chat)
 
-**3. find . -exec modifier
+**3. find . -exec modifier**
 
 *Example 1*
 ```
@@ -73,7 +73,7 @@ We can use the `-exec` modifier here to execute a remove command on all files th
 
 Source[Link](https://chat.openai.com/chat)
 
-**4. find . -ls modifier
+**4. find . -ls modifier**
 
 *Example 1*
 ```
