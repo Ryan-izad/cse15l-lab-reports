@@ -12,5 +12,5 @@ Keys pressed: `ssh cs15lwi23aim@ieng6.ucsd.edu` <enter>
 
 ![Image](clone.png)
 
-Keys pressed: `git clone <ctrl v> <enter>
+Keys pressed: `git clone` <ctrl v> <enter>
   
