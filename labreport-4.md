@@ -30,7 +30,7 @@ Keys pressed:
 ![Image](nano.png)
 
 Keys pressed:
-`nano ListExamples.java`
+`nano ListExamples.java <enter>`
 `<scroll down> <right x 12> <backspace> 2`
 `<ctrl o> <enter> <ctrl x>`
 
@@ -43,3 +43,10 @@ Keys pressed:
 `<up><up><up><enter>`
 
 9. Push changes to Github
+
+![Image](gitpush.png)
+
+Keys pressed:
+`git add List <tab> .java <enter>`
+`git commit -m "updated repository" <enter>`
+`git push`
