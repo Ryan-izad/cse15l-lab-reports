@@ -4,7 +4,7 @@
 
 I already had VS code installed on my device due to my previous computer science class. However, installing VS code is as easy as typing it into the search bar and downloading the software straight from the website; there is not much setup required. 
 
-![Image](VScodeScreenshot.png)
+![Image](screenshots/VScodeScreenshot.png)
 
 **2. Remotely Connencting**
 
