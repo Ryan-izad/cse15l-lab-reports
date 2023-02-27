@@ -4,21 +4,21 @@
 
 **4. Log into ieng6**
 
-![Image](ssh.png)
+![Image](screenshots/ssh.png)
 
 Keys pressed: 
 `ssh cs15lwi23aim@ieng6.ucsd.edu <enter>`
 
 **5. Clone the repository** 
 
-![Image](clone.png)
+![Image](screenshots/clone.png)
 
 Keys pressed: 
 `git clone <ctrl v> <enter>`
   
 **6. Run the tests**
 
-![Image](junit1.png)
+![Image](screenshots/junit1.png)
 
 Keys pressed: 
 `cd lab7 <enter>`
@@ -27,7 +27,7 @@ Keys pressed:
 
 **7. Fix the failing code**
 
-![Image](nano.png)
+![Image](screenshots/nano.png)
 
 Keys pressed:
 `nano ListExamples.java <enter>`
@@ -36,7 +36,7 @@ Keys pressed:
 
 **8. Rerun the tests**
 
-![Image](junit2.png)
+![Image](screenshots/junit2.png)
 
 Keys pressed: 
 `<up><up><up><enter>`
@@ -44,7 +44,7 @@ Keys pressed:
 
 **9. Push changes to Github**
 
-![Image](gitpush.png)
+![Image](screenshots/gitpush.png)
 
 Keys pressed:
 `git add List <tab> .java <enter>`
