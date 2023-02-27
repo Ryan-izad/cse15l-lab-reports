@@ -2,15 +2,15 @@
 
 **Part 1: StringServer**
 
-![Image](StringServerCode.png)
+![Image](screenshots/StringServerCode.png)
 
 *Code for StringServer.java*
 
-![Image](hiWorldTest.png)
+![Image](screenshots/hiWorldTest.png)
 
 By typing in "/add-message?s=hi world" as the path of my local server, both of the if statements in `handleRequest()` execute and split everything past the "?" (by utilizing `getQuery()`) into a string array called *parameters*. The second item of the array (the string after the "=") is added to a local string variable in the RequestHandler class called *message*. Message is then returned and displayed on screen. 
 
-![Image](welcomeTest.png)
+![Image](screenshots/welcomeTest.png)
 
 Upon typing in "/add-message?s=welcome to my webpage" as the path, the same process occurs as before, except this time the previous message also remains stored in the message String. Each time a string is added to message via url path, a line split is added to message to present each added string as a line after the old one. In this case, StringServer displayed: 
 "hi world"
@@ -46,7 +46,7 @@ public class ArrayTests {
 
 *Symptoms of Tests*
 
-![Image](ArrayTestJunit.png)
+![Image](screenshots/ArrayTestJunit.png)
 
 *The Bug*
 
