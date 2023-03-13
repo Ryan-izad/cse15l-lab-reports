@@ -9,6 +9,8 @@
 
 [Lab Report 4](labreport-4.md)
 
+[Lab Report 5](labreport-5.md)
+
 
 
 
