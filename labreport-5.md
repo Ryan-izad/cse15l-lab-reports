@@ -83,28 +83,28 @@ Below are different example outputs with the varying student-submissions provide
 https://github.com/ucsd-cse15l-f22/list-methods-lab3 
 (Original code as the starter from lab 3)
 
-![Image](Example1.png)
+![Image](screenshots/Example1.png)
 
 **Example #2**
 
 https://github.com/ucsd-cse15l-f22/list-methods-corrected
 (Correct implementation, full pass)
 
-![Image](Example2.png)
+![Image](screenshots/Example2.png)
 
 **Example #3**
 
 https://github.com/ucsd-cse15l-f22/list-methods-compile-error
 (Syntax error within ListExamples.java, missing semi-colon)
 
-![Image](Example3.png)
+![Image](screenshots/Example3.png)
 
 **Example #4**
 
 https://github.com/ucsd-cse15l-f22/list-methods-signature
 (Filter arguments are switched around, incorrect implementation)
 
-![Image](Example4.png)
+![Image](screenshots/Example4.png)
 
 
 
